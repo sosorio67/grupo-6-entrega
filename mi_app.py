@@ -1,0 +1,7 @@
+TITULO = "ObraSegura"
+CLIENTE = "Cimiento Seguros"
+DESCRIPCION = "Suscripción y seguimiento de contratos públicos"
+UNIDAD = "un contrato"
+PIE = "Fuente: SECOP II, RUES y antecedentes del caso ObraSegura. Una alerta estima riesgo de prórroga y requiere revisión humana. No acredita incumplimiento."
+LOGO = ""
+INTERFAZ = "streamlit"
